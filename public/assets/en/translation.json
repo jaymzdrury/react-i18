@@ -1,0 +1,5 @@
+{
+    "title": "hello, {{userName}}",
+    "description": "This line stays English unless you change lng property",
+    "complicated-text": "hello <1>friend</1>"
+}
